@@ -11,6 +11,7 @@
     #bloc_page
     {
         width: 100%;
+        height: 100%;
         margin: 0%;
         flex-direction: column-reverse;
     }
@@ -96,6 +97,7 @@
             display: flex;
             flex-wrap: wrap;
             background-color: #009688;
+            flex-direction: row;         
         }
 
             .blocs

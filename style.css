@@ -18,7 +18,7 @@
         margin-top: 0%;
         margin-bottom: 0%;
         display: flex;
-    }
+        }
 
         #bloc_blanc
         {
@@ -27,6 +27,7 @@
             padding: 4% 0% 1% 4%;   
             background-color: white;
             width: 70%;
+            align-content: space-between;
         }
 /* -------------------------------HEADER BLOC BLANC--------------------------------- */
 
@@ -142,7 +143,11 @@
         {
             background-color:#009688;
             width: 30%;
-            padding: 0%;                
+            padding: 0%;    
+            display: flex;
+            flex-direction: column;                
+            align-content: space-between;
+           
         }
             img
             {
