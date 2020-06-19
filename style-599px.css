@@ -56,7 +56,7 @@
                     font-size: 0.25em;
                 }
 
-            #recommandation
+            .recommandation
             {
                 flex-wrap: wrap;            
             }
