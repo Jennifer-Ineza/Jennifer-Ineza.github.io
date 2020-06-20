@@ -23,7 +23,7 @@
             #bloc_blanc
             {
                 display: flex;
-                flex-direction: column;    
+                flex-wrap: wrap;    
                 padding: 4% 0% 1% 4%;   
                 background-color: white;
                 width: 70%;
