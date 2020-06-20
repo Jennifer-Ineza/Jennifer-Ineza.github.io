@@ -1,11 +1,13 @@
 #body
 {
     min-width: 992px;
+    font-size: 0.4em;«
 }
 
     #bloc_page
     {
-        width: 40%;
+        width: 50%;
+        height: 100vh;
     }
 /* -------------------------------CONTENU BLOC BLANC--------------------------------- */
 
