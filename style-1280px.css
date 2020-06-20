@@ -1,0 +1,19 @@
+#body
+{
+    min-width: 1280px;
+    font-size: 0.5em;
+}
+#bloc_page
+{
+    width: 50%;
+    height: 100vh;
+    max-width: 1000px;
+}
+
+#bloc_blanc
+{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;    
+}
