@@ -11,8 +11,7 @@
     #bloc_page
     {
         width: 100%;
-        height: max-content;
-        max-height: max-content;
+        height: 100%;
         margin: 0%;
         flex-direction: column-reverse;
     }
@@ -64,7 +63,7 @@
                 .reco
                 {
                     margin-left: 10%;
-                    margin-right: 5%;
+                    margin-right: 10%;
                     text-align: left;
                 }
  

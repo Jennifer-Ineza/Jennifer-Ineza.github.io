@@ -2,7 +2,6 @@
   #body
 {
     min-width: 1200px;
-    max-width: 1278px;
     margin: 0%;
     background-color: black;
     display: flex;
@@ -19,16 +18,16 @@
         margin-top: 0%;
         margin-bottom: 0%;
         display: flex;
-    }
+        }
 
         #bloc_blanc
         {
             display: flex;
-            flex-direction: column;
+            flex-direction: column;    
             padding: 4% 0% 1% 4%;   
             background-color: white;
             width: 70%;
-
+            align-content: space-between;
         }
 /* -------------------------------HEADER BLOC BLANC--------------------------------- */
 
@@ -106,18 +105,17 @@
                     margin-left: 0% ;
                 }
 
-   
-                .recommandation
+            .recommandation
             {
-                width:100%;
-                display: flex;
-            }
 
+                display: flex;
+                margin-bottom: 0%;
+            
+            }
                 .reco
                 {
                    margin-left: 0%;
-                   margin-right: 30%;
-                   margin-bottom: 10px;
+                   margin-right: 10%;
                    text-align: left;
                 }
  
@@ -129,7 +127,7 @@
             }
             h4
             {
-                font-size: 1em;
+                font-size: 1.5em;
                 margin: 0rem;
             }
             h5
@@ -145,16 +143,19 @@
         {
             background-color:#009688;
             width: 30%;
-            padding: 0%;                
-            display: flex;     
-            flex-direction: column;      
+            padding: 0%;    
+            display: flex;
+            flex-direction: column;                
+            align-content: space-between;
+           
         }
-               
             img
             {
                 border: #daaf12 0.2rem solid;
                 border-radius:100%;
-                margin: 15%;
+                margin:15% ;
+                width: 70%;
+            
             }
             h6
             {
@@ -181,8 +182,6 @@
             .foot-a
             {
              margin-top:50%;
-             margin-bottom: 5%;
-
             }
 
                 #icones-a
