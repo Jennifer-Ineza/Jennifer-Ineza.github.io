@@ -14,7 +14,7 @@
 {
     height: 100vh;
     display: flex;
-    flex-direction: none;
+    flex-direction: initial;
     flex-wrap: wrap;
     align-content: space-between;    
 }
