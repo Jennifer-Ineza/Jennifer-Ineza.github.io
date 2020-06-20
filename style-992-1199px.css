@@ -1,13 +1,33 @@
 #body
 {
     min-width: 992px;
+    max-width: 1278px;
+    margin: 0%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    font-size: 0.4em;
+    font-family:'quicksandbold','quicksandregular','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
     #bloc_page
     {
         width: 40%;
         height: 100vh;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        display: flex;
     }
+
+        #bloc_blanc
+        {
+            display: flex;
+            flex-direction: column;    
+            padding: 4% 0% 1% 4%;   
+            background-color: white;
+            width: 70%;
+        }
 /* -------------------------------CONTENU BLOC BLANC--------------------------------- */
 
     .puce2
