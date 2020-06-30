@@ -114,8 +114,11 @@
             img
             {
                 border: #daaf12 0.2em solid;
-                border-radius:100%;
-                width: max-content;                
+                border-radius:100%;              
+                width: 40%;  
+                margin-left: 2%;
+                margin-top: 2%;
+                margin-bottom: 2%;
             }
 
             h6

@@ -5,13 +5,10 @@
 #bloc_page
 {
     width: 40%;
-    height: 100vh;
-    max-width: 900px;
 }
 
 #bloc_blanc
 {
-    height: 100vh;
     display: flex;
     flex-direction:disabled;
     flex-wrap: wrap;    
