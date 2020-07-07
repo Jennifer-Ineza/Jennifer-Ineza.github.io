@@ -6,8 +6,8 @@
       text-align: justify;
       font-size: 1em;
       font-family:'quicksandbold','quicksandregular','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
-  
+      background-color: #24746d ;
+    }
       #bloc_page
       {
           margin-top: 0%;
@@ -141,7 +141,7 @@
   
           #aside
           {
-              background-color:#009688;
+              background-color: #009688;
               width: 30%;
               padding: 0%;    
               display: flex;
